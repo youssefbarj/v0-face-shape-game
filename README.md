@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![v0-face-shape-game](https://github.com/youssefbarj/v0-face-shape-game/raw/main/screenshot.png)
+![v0-face-shape-game](https://raw.githubusercontent.com/youssefbarj/v0-face-shape-game/main/screenshot.png)
 
 ## What this slide does
 
