@@ -1,18 +1,20 @@
-# Jeu Morphologie — Microblading & Microblading EN Slide 8
+# MICROBLADING — Slide 8 / MICROBLADING (EN) — Slide 6
 
-**Course:** MICROBLADING & MICROBLADING (EN)  
-**Slide:** 8  
-**Live URL:** https://v0-face-shape-game.edtechiecorp.com  
-**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages  
-
-## What this slide does
-
-An interactive drag-and-drop game where learners match eyebrow shapes to face types — round, long, square, oval, and heart-shaped. Trains the morphological analysis skills required before performing microblading, where selecting the correct brow arch and tail length for each face shape is a core professional competency. The game format makes this analytical skill engaging to learn and easy to remember.
+**Course:** MICROBLADING — Slide 8
+**Course:** MICROBLADING (EN) — Slide 6
+**Live URL:** https://v0-face-shape-game.edtechiecorp.com
+**Stack:** Next.js · Tailwind CSS · TypeScript · GitHub Pages
 
 ## Screenshot
 
-![v0-face-shape-game](./screenshot.png)
+![v0-face-shape-game](https://github.com/youssefbarj/v0-face-shape-game/raw/main/screenshot.png)
+
+## What this slide does
+
+This is an interactive slide embedded as an iframe inside Coassemble. See the screenshot above for a visual preview of the content.
 
 ## Usage
 
-This slide is embedded as an iframe inside Coassemble at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+This slide is served via GitHub Pages at the live URL above. DNS is managed via Cloudflare (`edtechiecorp.com`). To update the slide, push to the `main` branch — GitHub Actions will rebuild and redeploy automatically.
+
+> **For E-Lumy's tech team:** After migrating this repo to your own GitHub account, re-enable GitHub Pages in Settings → Pages → Source: GitHub Actions. Then update the embed URL in Coassemble to your new deployment URL.
